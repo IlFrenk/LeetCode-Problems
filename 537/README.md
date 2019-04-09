@@ -14,7 +14,7 @@ Input: "1+-1i", "1+-1i"
 Output: "0+-2i"  
 Explanation: (1 - i) * (1 - i) = 1 + i^2 - 2 * i = -2i, and you need convert it to the form of 0+-2i.  
 ```  
-
+  
 Note:  
 The input strings will not have extra blank.  
 The input strings will be given in the form of a+bi, where a and b will both belong to the range of [-100, 100]. And the output should be also in this form.
